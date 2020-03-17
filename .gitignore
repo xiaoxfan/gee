@@ -16,4 +16,10 @@ go.sum
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+.idea
 
+.idea/.gitignore
+.idea/gee.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
